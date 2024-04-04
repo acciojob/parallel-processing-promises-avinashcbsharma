@@ -1,4 +1,3 @@
- <script>
     const output = document.getElementById("output");
     const btn = document.getElementById("download-images-button");
 
